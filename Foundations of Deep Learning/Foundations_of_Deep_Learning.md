@@ -35,6 +35,8 @@ Common activation functions include:
 * ReLU (widely used in deep networks)
 
 ---
+![alt text](support_image/image.png)
+---
 
 ## From Single Neuron to Deep Neural Network
 
@@ -51,6 +53,9 @@ For example, in image recognition:
 
 This hierarchical feature learning is what makes deep networks powerful.
 
+---
+![alt text](support_image/image2.png)
+![alt text](support_image/image3.png)
 ---
 
 ## Defining the Objective: Loss Function
@@ -200,6 +205,10 @@ Effectively, each forward pass samples a slightly different network architecture
 
 Dropout reduces co-adaptation between neurons and improves robustness.
 
+---
+![alt text](support_image/image4.png)
+---
+
 ### Early Stopping
 
 We split data into training and validation sets.
@@ -211,6 +220,8 @@ During training:
 
 We stop training at the point where validation loss is minimal. This prevents excessive memorization.
 
+---
+![alt text](support_image/image5.png)
 ---
 
 ## Why Deep Learning Works Today

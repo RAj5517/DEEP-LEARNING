@@ -73,6 +73,8 @@ Two major issues arise:
 Both make learning long-term dependencies difficult.
 
 ---
+![alt text](support_image/image3.png)
+---
 
 ## Long Short-Term Memory (LSTM)
 
@@ -108,6 +110,8 @@ Words map to dense vectors in a lower-dimensional space. Similar words occupy ne
 
 Embeddings allow neural networks to capture semantic relationships.
 
+---
+![alt text](support_image/image2.png)
 ---
 
 ## Limitations of RNNs
@@ -147,6 +151,10 @@ Process:
 This allows the model to "focus" on important parts of the sequence dynamically.
 
 ---
+![Attention Mechanism](support_image/Screenshot-2026-02-19-135017.png)
+![alt text](support_image/Screenshot-2026-02-19-135032.png)
+![alt text](support_image/Screenshot-2026-02-19-135055.png)
+---
 
 ## Positional Encoding
 
@@ -178,7 +186,8 @@ Transformers enable:
 Modern Large Language Models (LLMs) such as GPT are built on Transformer architectures.
 
 ---
-
+![alt text](support_image/image4.png)
+---
 ## Applications of Sequence Modeling
 
 Sequence models power:
