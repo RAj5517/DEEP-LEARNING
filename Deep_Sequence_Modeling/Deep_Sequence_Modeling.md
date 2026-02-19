@@ -46,7 +46,7 @@ Memory (h_{t-1})
 
 Unrolling through time reveals that the RNN is effectively a deep network across time steps with shared parameters.
 
-![alt text](Deep_Sequence_Modeling\support_image\image.png)
+![alt text](support_image/image.png)
 ---
 
 ## Training RNNs: Backpropagation Through Time (BPTT)
