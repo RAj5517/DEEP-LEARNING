@@ -60,7 +60,6 @@ This directory is organized domain-by-domain.
 - Missing value handling
 - Categorical encoding
 - Scaling & normalization
-- Feature engineering
 
 Used in:
 - Structured ML problems

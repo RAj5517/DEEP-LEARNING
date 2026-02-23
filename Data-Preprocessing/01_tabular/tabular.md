@@ -23,7 +23,7 @@ Scaling / Normalization
    ↓
 Ready for Neural Network
 ```
-
+![alt text](image.png)
 ---
 
 # 1️⃣ Raw Tabular Data
