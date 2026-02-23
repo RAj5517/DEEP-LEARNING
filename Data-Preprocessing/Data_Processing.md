@@ -11,6 +11,7 @@ Everything between raw real-world data and numerical tensors is called **data pr
 This folder exists to systematically study, implement, and document that transformation process across domains.
 
 ---
+![alt text](../imageset/dataprocessing.png)
 
 # 🎯 Why This Matters
 
