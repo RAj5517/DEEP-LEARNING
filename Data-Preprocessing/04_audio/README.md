@@ -70,3 +70,6 @@ Sound is waves → STFT converts waves to frequencies → Mel scale aligns to hu
 ---
 
 *For deep breakdowns, math, and code — refer to the individual files above.*
+
+![alt text](../../imageset/image9.png)
+![alt text](../../imageset/image10.png)

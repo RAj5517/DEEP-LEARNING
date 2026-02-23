@@ -71,3 +71,7 @@ Every step serves one purpose:
 ---
 
 *For deep breakdowns, math, and code — refer to the individual files above.*
+
+![alt text](../../imageset/image3.png)
+![alt text](../../imageset/image4.png)
+![alt text](../../imageset/image5.png)

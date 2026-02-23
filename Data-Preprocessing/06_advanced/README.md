@@ -72,3 +72,7 @@ Most model failures in industry are feature failures — not architecture failur
 ---
 
 *For deep breakdowns, math, and code — refer to the individual files above.*
+
+![alt text](../../imageset/image14.png)
+![alt text](../../imageset/image15.png)
+![alt text](../../imageset/image16.png)

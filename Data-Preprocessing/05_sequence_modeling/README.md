@@ -76,3 +76,7 @@ The entire preprocessing pipeline exists to create that prediction task from raw
 ---
 
 *For deep breakdowns, math, and code — refer to the individual files above.*
+
+![alt text](../../imageset/image11.png)
+![alt text](../../imageset/image12.png)
+![alt text](../../imageset/image13.png)

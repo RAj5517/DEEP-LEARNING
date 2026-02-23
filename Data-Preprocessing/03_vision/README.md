@@ -68,3 +68,7 @@ Everything else is deterministic and applied identically every time.
 ---
 
 *For deep breakdowns, math, and code — refer to the individual files above.*
+
+![alt text](../../imageset/image6.png)
+![alt text](../../imageset/image7.png)
+![alt text](../../imageset/image8.png)
