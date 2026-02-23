@@ -4,6 +4,7 @@ Overview (top):
 ![Workflow overview](../imageset/Screenshot2026-02-23172853.png)
 
 1) Data processing
+
 ![Data processing](../imageset/Screenshot2026-02-23173002.png)
 
 - Goal: convert raw inputs into a clean, consistent representation the model can consume.
@@ -11,6 +12,7 @@ Overview (top):
 - Why it matters: good preprocessing reduces noise, improves optimization stability, and creates the inductive biases that help models learn meaningful patterns rather than spurious artifacts.
 
 2) Main training loop
+
 ![Training loop 1](../imageset/Screenshot2026-02-23173030.png)
 ![Training loop 2](../imageset/Screenshot2026-02-23173046.png)
 
@@ -23,6 +25,7 @@ Overview (top):
 - Notes: batch size, learning rate schedules, and optimizer choice strongly affect convergence and final performance.
 
 3) Architecture-specific forward pass
+
 ![Architecture forward pass](../imageset/Screenshot2026-02-23173101.png)
 
 - Although the high-level training loop is the same, the forward computation depends on the architecture:
@@ -32,12 +35,14 @@ Overview (top):
 - Each architecture encodes different inductive biases (locality, temporal recurrence, global attention) that affect what patterns the model can learn efficiently.
 
 4) Outcome and evaluation
+
 ![Outcome](../imageset/Screenshot2026-02-23173121.png)
 
 - The model produces predictions; we evaluate using held-out validation/test sets and metrics (accuracy, F1, RMSE, AUC, etc.).
 - Additional analyses: calibration, confusion matrices, prediction distributions, and error case inspection.
 
 5) Where does generalization come from?
+
 ![Generalization concepts 1](../imageset/Screenshot2026-02-23173201.png)
 ![Generalization concepts 2](../imageset/Screenshot2026-02-23173215.png)
 
