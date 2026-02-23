@@ -23,7 +23,6 @@ Scaling / Normalization
    ↓
 Ready for Neural Network
 ```
-![alt text](../../imageset/image.png)
 ---
 
 # 1️⃣ Raw Tabular Data
@@ -132,3 +131,6 @@ It is **representation engineering before learning begins.**
 ---
 
 For deep technical breakdowns, mathematical explanations, and code implementations — refer to the individual core files inside this folder.
+
+![alt text](../../imageset/image1.png)
+![alt text](../../imageset/image2.png)
